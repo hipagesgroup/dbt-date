@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dbt-date
+  description: Date-related macros for dbt
+  annotations:
+    github.com/project-slug: hipagesgroup/dbt-date
+spec:
+  type: service
+  lifecycle: experimental
+  owner: hipages
