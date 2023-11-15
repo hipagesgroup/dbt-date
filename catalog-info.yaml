@@ -6,6 +6,6 @@ metadata:
   annotations:
     github.com/project-slug: hipagesgroup/dbt-date
 spec:
-  type: service
-  lifecycle: experimental
-  owner: hipages
+  type: library
+  lifecycle: production
+  owner: data-platform
