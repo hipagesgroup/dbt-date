@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dbt-date
+  title: "dbt-date"
+  description: >-
+    Date-related macros and calendar functionality for dbt SQL analytics.
+  annotations:
+    github.com/project-slug: hipagesgroup/dbt-date
+    github.com/team-slug: data-analytics-engineering
+  tags:
+    - repo
+    - dbt
+    - sql
+spec:
+  type: library
+  lifecycle: production
+  owner: data-analytics-engineering
+  domain: data-analytics

@@ -1,11 +1,9 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: Location
 metadata:
   name: dbt-date
-  description: Date-related macros for dbt
-  annotations:
-    github.com/project-slug: hipagesgroup/dbt-date
+  description: Catalog entities for dbt-date.
 spec:
-  type: library
-  lifecycle: production
-  owner: data-platform
+  targets:
+    - ./catalog/*.yaml
+    - ./catalog/**/*.yaml
