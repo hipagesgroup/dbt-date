@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: dbt-date-apps
-  description: Applications managed within the dbt-date monorepo.
+  name: dbt-date
+  description: Catalog entities for dbt-date.
 spec:
   targets:
     - ./catalog/*.yaml
