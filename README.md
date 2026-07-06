@@ -1,5 +1,5 @@
-[![Link to dbt-date in hipages Developer Portal, Component: dbt-date](https://backyard.k8s.hipages.com.au/api/badges/entity/default/component/dbt-date/badge/pingback "Link to dbt-date in hipages Developer Portal")](https://backyard.k8s.hipages.com.au/catalog/default/component/dbt-date)
-[![Entity owner badge, owner: analytics-engineering](https://backyard.k8s.hipages.com.au/api/badges/entity/default/component/dbt-date/badge/owner "Entity owner badge")](https://backyard.k8s.hipages.com.au/catalog/default/component/dbt-date)
+[![Link to dbt-date in hipages Developer Portal, Component: dbt-date](https://backyard.prod.hipages.com.au/api/badges/entity/default/component/dbt-date/badge/pingback "Link to dbt-date in hipages Developer Portal")](https://backyard.prod.hipages.com.au/catalog/default/component/dbt-date)
+[![Entity owner badge, owner: analytics-engineering](https://backyard.prod.hipages.com.au/api/badges/entity/default/component/dbt-date/badge/owner "Entity owner badge")](https://backyard.prod.hipages.com.au/catalog/default/component/dbt-date)
 [![CircleCI](https://circleci.com/gh/calogica/dbt-date/tree/main.svg?style=svg)](https://circleci.com/gh/calogica/dbt-date/tree/main)
 
 # dbt-date
