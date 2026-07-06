@@ -7,7 +7,7 @@ metadata:
     Date-related macros and calendar functionality for dbt SQL analytics.
   annotations:
     github.com/project-slug: hipagesgroup/dbt-date
-    github.com/team-slug: data-analytics-engineering
+    github.com/team-slug: analytics-engineering
   tags:
     - repo
     - dbt
@@ -15,5 +15,5 @@ metadata:
 spec:
   type: library
   lifecycle: production
-  owner: data-analytics-engineering
+  owner: analytics-engineering
   domain: data-analytics
